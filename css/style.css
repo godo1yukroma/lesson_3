@@ -1,0 +1,63 @@
+
+
+
+
+.header {
+}
+.menu li{
+	color: mediumblue;
+}
+.main {
+}
+
+.morewell h2{
+	color: red;
+}
+
+.morewell .parag-morewell p{
+	color: yellowgreen;
+}
+.morewell h5{
+	color: red;
+}
+.morewell ul li {
+	color: aqua;
+}
+.terminal {
+}
+.terminal h2{
+	color: crimson;
+}
+.terminal p{
+	color: black;
+}
+.perlina h2{
+	color: red;
+}
+.perlina-item {
+}
+.perlina .perlina-menu {
+	color: maroon;
+}
+.perlina p{
+	color: rgb(0, 0, 0);
+}
+
+.dergachov h2{
+	color: darkred;
+}
+.dergachov p mark{
+	color: deeppink;
+}
+
+.xii h2{
+	color: lime;
+}
+.xii-item .xii-menu ul li{
+	color: orangered;
+
+}
+.xii-menu{}
+
+.footer {
+}
